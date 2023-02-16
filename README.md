@@ -1,11 +1,8 @@
-### Hi there 👋
-
-<!--
-**lorovictor/lorovictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h1>Bem-vindo ao meu GitHub</h1>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 No momento eu e minha equipe estamos finalizando um projeto de mais 4 anos de desenvolvimento para BA (PHP/Javascript/HTML/CSS), finalizando um sistema para o Sindicato dos Médicos - MS para controle dos associados com geração de boletos (remessa e retorno do BBB, SICREDI e SICOOB) e entregando em fev/2023 um projeto para uma escolinha de futebol no Maranhão.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorovictor&theme=tokyonight&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorovictor&layout=compact&langs_count=16&theme=tokyonight)
