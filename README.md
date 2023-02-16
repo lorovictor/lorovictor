@@ -1,6 +1,6 @@
 ### <h1>Bem-vindo ao meu GitHub</h1>
 
-Conhença mais sobre os meus projetos de desenvolvimento:
+Conhença meus últimos projetos de desenvolvimento:
 
 - 👨‍⚕️ No momento eu e minha equipe estamos finalizando um projeto de Gestão Comercial na área de Saúde com mais de 4 anos de desenvolvimento para BA (PHP/Javascript/HTML/CSS), 
 - 🩺 Finalizando um sistema para o Sindicato dos Médicos - MS para controle dos associados com geração de boletos (remessa e retorno do BBB, SICREDI e SICOOB)
