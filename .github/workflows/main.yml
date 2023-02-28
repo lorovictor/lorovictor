@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@lorovictor 
-lorovictor
-/
-lorovictor
-Public
-Fork your own copy of lorovictor/lorovictor
-Code
-Issues
-12
-Pull requests
-18
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-lorovictor/.github/workflows/cobrinha.yml
-@lorovictor
-lorovictor Update cobrinha.yml
-Latest commit d2470b3 on May 29, 2021
- History
- 1 contributor
-26 lines (22 sloc)  589 Bytes
-
 name: Generate Datas
 
 on:
@@ -56,18 +24,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-lorovictor/cobrinha.yml at main · lorovictor/lorovictor
