@@ -25,6 +25,4 @@ Segue alguns Hard Skills:
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorovictor&theme=tokyonight&show_icons=true&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorovictor&layout=compact&langs_count=16&theme=tokyonight)
-
-![snake gif](https://github.com/lorovictor/lorovictor/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorovictor&layout=compact&langs_count=8&theme=tokyonight)
