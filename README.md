@@ -21,7 +21,7 @@ Segue alguns Hard Skills:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://aws.eti.br/aws/badge/badge_outsystems.jpg"/>
+<img src="https://aws.eti.br/aws/badge/badge-outsystems.jpg"/>
 
 ##
 
