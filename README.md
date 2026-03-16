@@ -2,8 +2,8 @@
 
 Conhença meus últimos projetos de desenvolvimento:
 
-- 👨‍⚕️ No momento eu e minha equipe estamos finalizando um projeto de Gestão Comercial na área de Saúde com mais de 4 anos de desenvolvimento para BA (PHP/Javascript/HTML/CSS), 
-- 🩺 Finalizando um sistema para o Sindicato dos Médicos - MS para controle dos associados com geração de boletos (remessa e retorno do BB, SICREDI e SICOOB)
+- 👨‍⚕️ No momento eu e minha equipe estamos finalizando um projeto de Gestão Comercial na área de Saúde com mais de 7 anos de desenvolvimento para BA (PHP/Javascript/HTML/CSS), 
+- 🩺 Desenvolvido um sistema para o Sindicato dos Médicos - MS para controle dos associados com geração de boletos (remessa e retorno do BB, SICREDI e SICOOB)
 - ⚽ Entregando em fev/2023 um sistema online para uma escolinha de futebol no Maranhão.
 - 🌐 Último Site entregue em 2023 (RADAR SLZ - Escola de Aviação <a href="https://radarslz.com.br" target="_blank">https://radarslz.com.br</a>)
 - 📖 Aprendendo React e TypeScript na DIO
